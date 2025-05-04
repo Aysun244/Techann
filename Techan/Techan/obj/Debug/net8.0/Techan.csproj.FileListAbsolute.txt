@@ -12,8 +12,6 @@ C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\obj\Debug\net8.0\Techan.Ass
 C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\obj\Debug\net8.0\Techan.AssemblyInfo.cs
 C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\obj\Debug\net8.0\Techan.csproj.CoreCompileInputs.cache
 C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\obj\Debug\net8.0\Techan.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\obj\Debug\net8.0\Techan.RazorAssemblyInfo.cache
-C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\obj\Debug\net8.0\Techan.RazorAssemblyInfo.cs
 C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\obj\Debug\net8.0\Techan.sourcelink.json
 C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\obj\Debug\net8.0\scopedcss\bundle\Techan.styles.css
 C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\obj\Debug\net8.0\staticwebassets.build.json
@@ -228,3 +226,5 @@ C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\bin\Debug\net8.0\runtimes\w
 C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\obj\Debug\net8.0\Techan.csproj.AssemblyReference.cache
 C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\obj\Debug\net8.0\Techan.csproj.Up2Date
+C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\obj\Debug\net8.0\Techan.RazorAssemblyInfo.cache
+C:\Users\User\OneDrive\Desktop\Techann\Techan\Techan\obj\Debug\net8.0\Techan.RazorAssemblyInfo.cs

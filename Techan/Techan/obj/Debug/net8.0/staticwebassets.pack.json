@@ -1,6 +1,38 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\vendors\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\vendors\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\material-icon-round.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\vendors\\material-icon-round.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\normalize.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\vendors\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\vendors\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\select2.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\vendors\\select2.min.css"
+    },
+    {
       "Id": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.ttf",
       "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\material-icon\\MaterialIcons-Outlined.ttf"
     },

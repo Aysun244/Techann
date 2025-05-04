@@ -1,3 +1,11 @@
+wwwroot\Admin\assets\css\main.css
+wwwroot\Admin\assets\css\main.css.map
+wwwroot\Admin\assets\css\vendors\bootstrap.css
+wwwroot\Admin\assets\css\vendors\bootstrap.css.map
+wwwroot\Admin\assets\css\vendors\material-icon-round.css
+wwwroot\Admin\assets\css\vendors\normalize.css
+wwwroot\Admin\assets\css\vendors\perfect-scrollbar.css
+wwwroot\Admin\assets\css\vendors\select2.min.css
 wwwroot\Admin\assets\fonts\material-icon\MaterialIcons.ttf
 wwwroot\Admin\assets\fonts\material-icon\MaterialIcons.woff
 wwwroot\Admin\assets\fonts\material-icon\MaterialIcons.woff2

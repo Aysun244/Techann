@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SBZ2B+WCsZNBk+RvjLJP7b+FvoCSR/6QMiHJDE078bA=",
+  "Hash": "Q7ar29x3nKnT+h6BjWAdircqK6FX5+LK7d2gqUN4BQ4=",
   "Source": "Techan",
   "BasePath": "_content/Techan",
   "Mode": "Default",
@@ -16,6 +16,174 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\main.css",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "Admin/assets/css/main#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xnpitmwztt",
+      "Integrity": "k5hblUvPQg3rkO0J3QFzL4DPi50OUhrLMp97uqKotaw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\main.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\main.css.map",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "Admin/assets/css/main.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2x5lmvdi1j",
+      "Integrity": "yuxheTgR0VjX3qMV2mFrbtwdf8UXcE0jKzGqcgHcryc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\main.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\bootstrap.css",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "Admin/assets/css/vendors/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7twrxgea9i",
+      "Integrity": "JcAh5vjpwXqAoe19UXQE95Q/DoD5ip6upqUKYZRICaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\vendors\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\bootstrap.css.map",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "Admin/assets/css/vendors/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "auxr8bll1j",
+      "Integrity": "EoiKXpLqPmpjns0LhM01305INQB7MeN6uqtVQ5MzFFo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\vendors\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\material-icon-round.css",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "Admin/assets/css/vendors/material-icon-round#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xovzoiuwcx",
+      "Integrity": "MQuMCS/QuXA0nrgjYi956kPwBIUuT2/mLXKQuTQqEwA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\vendors\\material-icon-round.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\normalize.css",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "Admin/assets/css/vendors/normalize#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "icnkhosgts",
+      "Integrity": "MoTIEGGjDBg4Pv5KmV8jAuoyKEpWEewe+lWErkgLkXQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\vendors\\normalize.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\perfect-scrollbar.css",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "Admin/assets/css/vendors/perfect-scrollbar#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tas5gry4xs",
+      "Integrity": "e2UIyejgTejr/sXeLOHEMDvEagonkoPv9+JIwckAqRs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\vendors\\perfect-scrollbar.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\select2.min.css",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "Admin/assets/css/vendors/select2.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "agsden4n3l",
+      "Integrity": "tqSfhcyyolSiuhGhvVH/3kokqqiBD43xcqw9OEdzeCU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\vendors\\select2.min.css"
+    },
     {
       "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\fonts\\material-icon\\MaterialIcons.ttf",
       "SourceId": "Techan",
@@ -6339,6 +6507,662 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "Admin/assets/css/main.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5hblUvPQg3rkO0J3QFzL4DPi50OUhrLMp97uqKotaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Mar 2022 11:27:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5hblUvPQg3rkO0J3QFzL4DPi50OUhrLMp97uqKotaw="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/main.css.2x5lmvdi1j.map",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\main.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yuxheTgR0VjX3qMV2mFrbtwdf8UXcE0jKzGqcgHcryc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Mar 2022 11:27:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2x5lmvdi1j"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/css/main.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yuxheTgR0VjX3qMV2mFrbtwdf8UXcE0jKzGqcgHcryc="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/main.css.map",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\main.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yuxheTgR0VjX3qMV2mFrbtwdf8UXcE0jKzGqcgHcryc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Mar 2022 11:27:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yuxheTgR0VjX3qMV2mFrbtwdf8UXcE0jKzGqcgHcryc="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/main.xnpitmwztt.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5hblUvPQg3rkO0J3QFzL4DPi50OUhrLMp97uqKotaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Mar 2022 11:27:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnpitmwztt"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/css/main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5hblUvPQg3rkO0J3QFzL4DPi50OUhrLMp97uqKotaw="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/vendors/bootstrap.7twrxgea9i.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JcAh5vjpwXqAoe19UXQE95Q/DoD5ip6upqUKYZRICaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Mar 2022 06:48:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7twrxgea9i"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/css/vendors/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JcAh5vjpwXqAoe19UXQE95Q/DoD5ip6upqUKYZRICaY="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/vendors/bootstrap.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JcAh5vjpwXqAoe19UXQE95Q/DoD5ip6upqUKYZRICaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 26 Mar 2022 06:48:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JcAh5vjpwXqAoe19UXQE95Q/DoD5ip6upqUKYZRICaY="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/vendors/bootstrap.css.auxr8bll1j.map",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225071"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EoiKXpLqPmpjns0LhM01305INQB7MeN6uqtVQ5MzFFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Apr 2021 12:57:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "auxr8bll1j"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/css/vendors/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EoiKXpLqPmpjns0LhM01305INQB7MeN6uqtVQ5MzFFo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/vendors/bootstrap.css.map",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225071"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EoiKXpLqPmpjns0LhM01305INQB7MeN6uqtVQ5MzFFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Apr 2021 12:57:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EoiKXpLqPmpjns0LhM01305INQB7MeN6uqtVQ5MzFFo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/vendors/material-icon-round.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\material-icon-round.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQuMCS/QuXA0nrgjYi956kPwBIUuT2/mLXKQuTQqEwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 Apr 2021 05:03:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQuMCS/QuXA0nrgjYi956kPwBIUuT2/mLXKQuTQqEwA="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/vendors/material-icon-round.xovzoiuwcx.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\material-icon-round.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQuMCS/QuXA0nrgjYi956kPwBIUuT2/mLXKQuTQqEwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 Apr 2021 05:03:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xovzoiuwcx"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/css/vendors/material-icon-round.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQuMCS/QuXA0nrgjYi956kPwBIUuT2/mLXKQuTQqEwA="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/vendors/normalize.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\normalize.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6167"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MoTIEGGjDBg4Pv5KmV8jAuoyKEpWEewe+lWErkgLkXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 Apr 2021 05:40:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MoTIEGGjDBg4Pv5KmV8jAuoyKEpWEewe+lWErkgLkXQ="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/vendors/normalize.icnkhosgts.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\normalize.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6167"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MoTIEGGjDBg4Pv5KmV8jAuoyKEpWEewe+lWErkgLkXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 24 Apr 2021 05:40:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "icnkhosgts"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/css/vendors/normalize.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MoTIEGGjDBg4Pv5KmV8jAuoyKEpWEewe+lWErkgLkXQ="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/vendors/perfect-scrollbar.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\perfect-scrollbar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e2UIyejgTejr/sXeLOHEMDvEagonkoPv9+JIwckAqRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2020 21:30:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e2UIyejgTejr/sXeLOHEMDvEagonkoPv9+JIwckAqRs="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/vendors/perfect-scrollbar.tas5gry4xs.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\perfect-scrollbar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e2UIyejgTejr/sXeLOHEMDvEagonkoPv9+JIwckAqRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2020 21:30:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tas5gry4xs"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/css/vendors/perfect-scrollbar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e2UIyejgTejr/sXeLOHEMDvEagonkoPv9+JIwckAqRs="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/vendors/select2.min.agsden4n3l.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\select2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tqSfhcyyolSiuhGhvVH/3kokqqiBD43xcqw9OEdzeCU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 27 Feb 2021 16:20:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "agsden4n3l"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/assets/css/vendors/select2.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tqSfhcyyolSiuhGhvVH/3kokqqiBD43xcqw9OEdzeCU="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/assets/css/vendors/select2.min.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\css\\vendors\\select2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tqSfhcyyolSiuhGhvVH/3kokqqiBD43xcqw9OEdzeCU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 27 Feb 2021 16:20:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tqSfhcyyolSiuhGhvVH/3kokqqiBD43xcqw9OEdzeCU="
+        }
+      ]
+    },
     {
       "Route": "Admin/assets/fonts/material-icon/MaterialIcons.iyz4lx682p.ttf",
       "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\Admin\\assets\\fonts\\material-icon\\MaterialIcons.ttf",

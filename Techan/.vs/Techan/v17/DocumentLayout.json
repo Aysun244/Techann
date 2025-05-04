@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,67 +46,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Program.cs",
+              "RelativeDocumentMoniker": "Techan\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Program.cs",
+              "RelativeToolTip": "Techan\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:38:38.027Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\Shared\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Techan\\Views\\Shared\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\Shared\\_ViewStart.cshtml",
-              "RelativeToolTip": "Techan\\Views\\Shared\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T18:59:49.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Techan\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Techan\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAuwHQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T18:56:47.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T19:56:02.447Z",
+              "WhenOpened": "2025-05-04T14:17:44.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAANkAAAAAAAAAAIAwwOUAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T19:29:10.799Z",
+              "WhenOpened": "2025-05-04T13:52:23.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -114,20 +98,59 @@
               "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T19:28:25.917Z",
+              "WhenOpened": "2025-05-04T13:49:04.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Program.cs",
-              "RelativeDocumentMoniker": "Techan\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Program.cs",
-              "RelativeToolTip": "Techan\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T18:38:38.027Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Techan\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Techan\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAJAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T11:53:30.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Techan\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Techan\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN4DAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T12:13:32.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Techan\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Techan\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T13:29:22.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Techan\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Techan\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T12:35:44.37Z",
               "EditorCaption": ""
             },
             {
@@ -140,33 +163,7 @@
               "RelativeToolTip": "Techan\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-02T19:24:19.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Techan\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Techan\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEoMAAAAAAAAAAAewAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T19:09:20.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Techan\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Techan\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T19:09:13.666Z",
+              "WhenOpened": "2025-05-04T11:50:46.003Z",
               "EditorCaption": ""
             }
           ]

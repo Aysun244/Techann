@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Techan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+895313228633ffa4bd9055b06dcf6dcbb8c21d1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+592bf679aa14f20ed263b1b455e3dc6cbc247673")]
 [assembly: System.Reflection.AssemblyProductAttribute("Techan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Techan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

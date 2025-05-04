@@ -8,5 +8,9 @@ namespace Techan.Controllers
         {
             return View();
         }
+        public async Task<IActionResult>Contact()
+        {
+            return View();
+        }
     }
 }
