@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\dataaccesslayer\\techandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\dataaccesslayer\\techandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|c:\\users\\user\\onedrive\\desktop\\techann\\techan\\techan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAD9D02A-3B01-4B22-ABDC-9C9BD3B642BC}|Techan\\Techan.csproj|solutionrelative:techan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TechanDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\DataAccessLayer\\TechanDbContext.cs",
-              "RelativeDocumentMoniker": "Techan\\DataAccessLayer\\TechanDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\DataAccessLayer\\TechanDbContext.cs",
-              "RelativeToolTip": "Techan\\DataAccessLayer\\TechanDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T20:53:16.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowCUAAACKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T19:28:34.023Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\appsettings.json",
+              "RelativeDocumentMoniker": "Techan\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\appsettings.json",
+              "RelativeToolTip": "Techan\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T20:56:12.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Techan\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwDEAAAAtAAAAAAAAAA==",
+              "Title": "TechanDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\DataAccessLayer\\TechanDbContext.cs",
+              "RelativeDocumentMoniker": "Techan\\DataAccessLayer\\TechanDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\DataAccessLayer\\TechanDbContext.cs",
+              "RelativeToolTip": "Techan\\DataAccessLayer\\TechanDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:58:06.16Z",
+              "WhenOpened": "2025-05-06T20:53:19.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeDocumentMoniker": "Techan\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeToolTip": "Techan\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T18:18:51.246Z"
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Program.cs",
+              "RelativeDocumentMoniker": "Techan\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\Program.cs",
+              "RelativeToolTip": "Techan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:48:27.877Z",
+              "EditorCaption": ""
             }
           ]
         }
