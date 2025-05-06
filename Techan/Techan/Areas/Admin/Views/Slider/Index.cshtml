@@ -1,10 +1,10 @@
-﻿<section class="content-main">
+﻿@model List<SliderGetVM>
+<section class="content-main">
     <div class="content-header">
         <h2 class="content-title">Slider List</h2>
-        <a href=" " class="btn btn-primary">Create</a>
+        <a asp-action="Create" asp-controllerr="Slider" class="btn btn-primary">Create</a>
     </div>
     <div class="card mb-4">
-       
         <div class="card-body">
             <div class="table-responsive">
                 <table class="table table-hover">
@@ -20,7 +20,26 @@
                             <th colspan="2" class="text-end"> Action </th>
                         </tr>
                     </thead>
-                    <tbody>                               
+                    <tbody>   
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>
+                                 <img src="@item.ImageUrl" width="120"/>
+                                </td>
+                                  <td>@item.BigTitle</td>
+                                <td>@item.Title</td>
+                                <td>@item.LittleTitle</td>
+                                <td>@item.Offer</td>
+                                <td>@item.Link</td>
+                                <td>
+                                    <a asp-acion="Update" asp-controller="Slider" class="btn btn-info" asp-route-id="@item.Id">Update</a>
+                                    <a asp-acion="Delete" asp-controller="Slider" class="btn btn-secondary" asp-route-id="@item.Id">Delete</a>
+                                </td>
+
+                            </tr>
+                        }
                     </tbody>
                 </table>
             </div> 

@@ -10,6 +10,6 @@ namespace Techan.DataAccessLayer
         {
             optionsBuilder.UseSqlServer("Server=.\\SQLEXPRESS;Database=Techan;Trusted_Connection=True;TrustServerCertificate=True;");
             base.OnConfiguring(optionsBuilder);
-        }
+        }      
     }
 }

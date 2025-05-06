@@ -1,4 +1,6 @@
-﻿<!DOCTYPE HTML>
+﻿
+
+<!DOCTYPE HTML>
 <html lang="en">
 
 <head>
@@ -31,9 +33,15 @@
         <nav>
             <ul class="menu-aside">
                 <li class="menu-item active">
-                    <a class="menu-link" href="index.html">
+                    <a class="menu-link" asp-action="Index" asp-controller="Dashboard">
                         <i class="icon material-icons md-home"></i>
                         <span class="text">Dashboard</span>
+                    </a>
+                </li>
+                <li class="menu-item">
+                    <a class="menu-link" asp-action="Index" asp-controller="Sliders">
+                        <i class="icon material-icons md-tune "></i>
+                        <span class="text">Slider</span>
                     </a>
                 </li>
                 <li class="menu-item has-submenu">
@@ -79,7 +87,7 @@
         </header>
        
             @RenderBody()
-                  </section>
+                  
         <footer class="main-footer font-xs">
             <div class="row pb-30 pt-15">
                 <div class="col-sm-6">
