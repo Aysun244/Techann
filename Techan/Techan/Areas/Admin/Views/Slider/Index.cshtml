@@ -1,4 +1,7 @@
 ﻿@model List<SliderGetVM>
+@{
+    int order = 1;
+}
 <section class="content-main">
     <div class="content-header">
         <h2 class="content-title">Slider List</h2>
@@ -24,7 +27,7 @@
                         @foreach (var item in Model)
                         {
                             <tr>
-                                <td>@item.Id</td>
+                                <td>@(order++)</td>
                                 <td>
                                  <img src="@item.ImageUrl" width="120"/>
                                 </td>
@@ -34,8 +37,8 @@
                                 <td>@item.Offer</td>
                                 <td>@item.Link</td>
                                 <td>
-                                    <a asp-acion="Update" asp-controller="Slider" class="btn btn-info" asp-route-id="@item.Id">Update</a>
-                                    <a asp-acion="Delete" asp-controller="Slider" class="btn btn-secondary" asp-route-id="@item.Id">Delete</a>
+                                    <a asp-acion="Update"  class="btn btn-info" asp-route-id="@item.Id">Update</a>
+                                    <a asp-acion="Delete"  class="btn btn-secondary" asp-route-id="@item.Id">Delete</a>
                                 </td>
 
                             </tr>

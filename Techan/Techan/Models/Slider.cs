@@ -1,8 +1,7 @@
 ﻿namespace Techan.Models
 {
-    public class Slider
-    {
-        public int Id { get; set; }
+    public class Slider : BaseEntity
+    {   
         public string ImageUrl { get; set; }
         public string LittleTitle { get; set; }
         public string Title { get; set; }
