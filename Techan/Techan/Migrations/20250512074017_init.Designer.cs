@@ -11,8 +11,8 @@ using Techan.DataAccessLayer;
 namespace Techan.Migrations
 {
     [DbContext(typeof(TechanDbContext))]
-    [Migration("20250511180744_CreatedProductsAndBrandsTable")]
-    partial class CreatedProductsAndBrandsTable
+    [Migration("20250512074017_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

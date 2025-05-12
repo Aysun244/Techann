@@ -1,11 +1,9 @@
-﻿
-
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <html lang="en">
 
 <head>
     <meta charset="utf-8">
-    <title>Evara Dashboard</title>
+    <title>Techan Dashboard</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,7 +22,7 @@
     <aside class="navbar-aside" id="offcanvas_aside">
         <div class="aside-top">
             <a href="index.html" class="brand-wrap">
-                <img src="~/admin/assets/imgs/theme/logo.svg" class="logo" alt="Evara Dashboard">
+                <img src="~/admin/assets/imgs/theme/logo.svg" class="logo" alt="Techan Dashboard">
             </a>
             <div>
                 <button class="btn btn-icon btn-aside-minimize"> <i class="text-muted material-icons md-menu_open"></i> </button>
@@ -39,9 +37,15 @@
                     </a>
                 </li>
                 <li class="menu-item">
-                    <a class="menu-link" asp-action="Index" asp-controller="Sliders">
+                    <a class="menu-link" asp-action="Index" asp-controller="Slider">
                         <i class="icon material-icons md-tune "></i>
                         <span class="text">Slider</span>
+                    </a>
+                </li>
+                <li class="menu-item">
+                    <a class="menu-link" asp-action="Index" asp-controller="Brand">
+                        <i class="icon material-icons md-tune "></i>
+                        <span class="text">Brand</span>
                     </a>
                 </li>
                 <li class="menu-item has-submenu">
@@ -50,10 +54,8 @@
                         <span class="text">Products</span>
                     </a>
                     <div class="submenu">
-                        <a href="page-products-list.html">Product List</a>
-                        <a href="page-products-grid.html">Product grid</a>
-                        <a href="page-products-grid-2.html">Product grid 2</a>
-                        <a href="page-categories.html">Categories</a>
+                        <a href="page-products-list.html">List</a>
+                        <a href="page-products-grid.html">Create</a>
                     </div>
                 </li>
             </ul>

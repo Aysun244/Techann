@@ -6,16 +6,16 @@ namespace Techan.ViewModels.Sliders
     {
         public int Id { get; set; }
         public string ImageUrl { get; set; }
-        [MinLength(16)]
+        [MinLength(5)]
         public string LittleTitle { get; set; }
-        [MinLength(16)]
+        [MinLength(5)]
         public string Title { get; set; }
-        [MinLength(16)]
+        [MinLength(5)]
         public string BigTitle { get; set; }
-        [MinLength(16)]
+        [MinLength(5)]
 
         public string Offer { get; set; }
-        [MinLength(16)]
+        [MinLength(5)]
         public string Link { get; set; }
     }
 }

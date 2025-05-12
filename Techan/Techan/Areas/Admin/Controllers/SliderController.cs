@@ -65,19 +65,18 @@ namespace Techan.Areas.Admin.Controllers
         public async Task<IActionResult>Delete(int? id)
         {
             if (!id.HasValue || id.Value<1) return BadRequest();
+            int result = await _context.Sliders.Where(x => x.Id == id).ExecuteDeleteAsync();
+            if (result == 0)
+                return NotFound();
+            return RedirectToAction(nameof(Index));
             //using (var context = new TechanDbContext())
             //{
             //int result = await context.Sliders.Where(x => x.Id == id).ExecuteDeleteAsync();
             //if (result == 0)
             //    return NotFound();
             //}
-            int result = await _context.Sliders.Where(x => x.Id == id).ExecuteDeleteAsync();
-            if (result == 0)
-                return NotFound();
-            return RedirectToAction(nameof(Index));
         }
 
-        [HttpPost]
 
         public async Task<IActionResult>Update(int? id)
         {

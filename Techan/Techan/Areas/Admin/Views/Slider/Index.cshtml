@@ -20,7 +20,7 @@
                             <th scope="col">Big Title</th>
                             <th scope="col">Offer</th>
                             <th scope="col">Link</th>
-                            <th colspan="2" class="text-end"> Action </th>
+                            <th colspan="2" style="text-align:center"> Action </th>
                         </tr>
                     </thead>
                     <tbody>   
@@ -37,8 +37,10 @@
                                 <td>@item.Offer</td>
                                 <td>@item.Link</td>
                                 <td>
-                                    <a asp-acion="Update"  class="btn btn-info" asp-route-id="@item.Id">Update</a>
-                                    <a asp-acion="Delete"  class="btn btn-secondary" asp-route-id="@item.Id">Delete</a>
+                                    <a asp-action="Update"  class="btn btn-info" asp-route-id="@item.Id">Update</a>
+                                </td>
+                                <td>
+                                    <a asp-action="Delete"  class="btn btn-secondary" asp-route-id="@item.Id">Delete</a>
                                 </td>
 
                             </tr>
