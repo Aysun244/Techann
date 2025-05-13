@@ -1237,6 +1237,10 @@
       "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.6.0.min.js"
     },
     {
+      "Id": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\imgs\\brands\\zk3rokcp.i1w.jpg",
+      "PackagePath": "staticwebassets\\imgs\\brands\\zk3rokcp.i1w.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Techan.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

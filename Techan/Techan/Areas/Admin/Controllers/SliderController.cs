@@ -11,11 +11,7 @@ namespace Techan.Areas.Admin.Controllers
     {
         public async Task<IActionResult> Index()
         {
-            List<Slider> datas = [];
-            //using (var context = new TechanDbContext())
-            //{
-            //    datas = await context.Sliders.ToListAsync();
-            //}
+            List<Slider> datas = [];         
             datas = await _context.Sliders.ToListAsync();
             List<SliderGetVM> slider = [];
             foreach (var item in datas)
@@ -50,12 +46,7 @@ namespace Techan.Areas.Admin.Controllers
             slider.BigTitle = model.BigTitle;
             slider.ImageUrl = model.ImageUrl;
             slider.Link = model.Link;
-            slider.Offer = model.Offer;
-            //using (var context = new TechanDbContext())
-            //{
-            //    await context.Sliders.AddAsync(slider);
-            //    await context.SaveChangesAsync();
-            //}
+            slider.Offer = model.Offer;           
             await _context.Sliders.AddAsync(slider);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
@@ -68,13 +59,7 @@ namespace Techan.Areas.Admin.Controllers
             int result = await _context.Sliders.Where(x => x.Id == id).ExecuteDeleteAsync();
             if (result == 0)
                 return NotFound();
-            return RedirectToAction(nameof(Index));
-            //using (var context = new TechanDbContext())
-            //{
-            //int result = await context.Sliders.Where(x => x.Id == id).ExecuteDeleteAsync();
-            //if (result == 0)
-            //    return NotFound();
-            //}
+            return RedirectToAction(nameof(Index));          
         }
 
 

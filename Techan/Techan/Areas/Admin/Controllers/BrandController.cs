@@ -1,26 +1,65 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Techan.DataAccessLayer;
+using Techan.Models;
 using Techan.ViewModels.Brands;
+using static System.Net.Mime.MediaTypeNames;
 
-
-namespace Techan.Areas.Admin.Controllers;
-
-[Area("Admin")]
-public class BrandController (TechanDbContext _context): Controller
+namespace Techan.Areas.Admin.Controllers
 {
-    public async Task< IActionResult> Index()
+    [Area("Admin")]
+    public class BrandController (TechanDbContext _context) : Controller
     {
-        var datas = await _context.Brands.Select(x => new BrandGetVM
+        public async Task<IActionResult> Index()
         {
-            Id = x.Id,
-            Name = x.Name,
-            ImageUrl = x.ImageUrl,
-        }).ToListAsync();
-        return View(datas);         
-    }
-    public async Task<IActionResult>Create()
-    {
-        return View();
+            var datas = await _context.Brands.Select(x => new BrandGetVM
+            {
+                Id = x.Id,
+                Name = x.Name,
+                ImageUrl = x.ImageUrl,
+            }).ToListAsync();
+
+            return View(datas);
+        }
+
+       
+        public async Task<IActionResult>Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+
+        public async Task<IActionResult> Create(BrandCreateVM vm)
+        {
+            if (vm.ImageFile != null)
+            {
+                if(!vm.ImageFile.ContentType.StartsWith("image"))
+                {
+                    string ext = Path.GetExtension(vm.ImageFile.FileName);
+                    ModelState.AddModelError("ImageFile", "Sadece sekil formatinda fayl qebul olunandir" + "olmaz!");
+                }
+                if (vm.ImageFile.Length / 1024 > 200)
+                    ModelState.AddModelError("ImageFile", "200kb'dan cox olmamalidir");
+                
+            }
+            if (!ModelState.IsValid)
+                return View(vm);
+
+
+            string newImageName=Path.GetRandomFileName() +  Path.GetExtension(vm.ImageFile!.FileName);
+            string path = Path.Combine("wwwroot","imgs", "brands",newImageName);
+            await using (FileStream fs = new FileStream(path, FileMode.Create))
+            {
+                await vm.ImageFile.CopyToAsync(fs);
+            }
+            await _context.Brands.AddAsync(new Brand
+            {
+                ImageUrl = newImageName,
+                Name = vm.Name,
+            });
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
