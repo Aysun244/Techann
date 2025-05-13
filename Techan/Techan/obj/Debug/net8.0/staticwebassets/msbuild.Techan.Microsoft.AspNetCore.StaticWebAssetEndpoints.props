@@ -3708,6 +3708,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Ch5OE9V2R6dqxdIuBn/3epEGR0qdF41EKsYx7pQY9bQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11841"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Ch5OE9V2R6dqxdIuBn/3epEGR0qdF41EKsYx7pQY9bQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 27 Feb 2021 16:20:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Techan/imgs/brands/oxt5m3fp.0vd.2bbadbj05x.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\brands\oxt5m3fp.0vd.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2bbadbj05x"},{"Name":"integrity","Value":"sha256-vsBAuWHgI5El4JFfmlnCeNQzBP\u002B/r6o82XS1fNZVkQw="},{"Name":"label","Value":"_content/Techan/imgs/brands/oxt5m3fp.0vd.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"166661"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vsBAuWHgI5El4JFfmlnCeNQzBP\u002B/r6o82XS1fNZVkQw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 16:56:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Techan/imgs/brands/oxt5m3fp.0vd.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\brands\oxt5m3fp.0vd.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vsBAuWHgI5El4JFfmlnCeNQzBP\u002B/r6o82XS1fNZVkQw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"166661"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vsBAuWHgI5El4JFfmlnCeNQzBP\u002B/r6o82XS1fNZVkQw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 13 May 2025 16:56:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Techan/imgs/brands/zk3rokcp.i1w.2bbadbj05x.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imgs\brands\zk3rokcp.i1w.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

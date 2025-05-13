@@ -307,4 +307,5 @@ wwwroot\assets\js\vendor\bootstrap.bundle.min.js.map
 wwwroot\assets\js\vendor\jquery-3.6.0.min.js
 wwwroot\assets\js\vendor\jquery-migrate-3.3.0.min.js
 wwwroot\assets\js\vendor\modernizr-3.6.0.min.js
+wwwroot\imgs\brands\oxt5m3fp.0vd.jpg
 wwwroot\imgs\brands\zk3rokcp.i1w.jpg

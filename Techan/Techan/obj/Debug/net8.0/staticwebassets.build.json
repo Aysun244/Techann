@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Auz2tW7xEK2ptdAjWgfrrGb39XWIONbN7CiwQMFhp2E=",
+  "Hash": "b7pTcfEwyyPJIpcIAG7oY7e8g7STEervJIRRUYxhHPs=",
   "Source": "Techan",
   "BasePath": "_content/Techan",
   "Mode": "Default",
@@ -6504,6 +6504,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\modernizr-3.6.0.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\imgs\\brands\\oxt5m3fp.0vd.jpg",
+      "SourceId": "Techan",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\",
+      "BasePath": "_content/Techan",
+      "RelativePath": "imgs/brands/oxt5m3fp.0vd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2bbadbj05x",
+      "Integrity": "vsBAuWHgI5El4JFfmlnCeNQzBP+/r6o82XS1fNZVkQw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\brands\\oxt5m3fp.0vd.jpg"
     },
     {
       "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\imgs\\brands\\zk3rokcp.i1w.jpg",
@@ -31863,6 +31884,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Ch5OE9V2R6dqxdIuBn/3epEGR0qdF41EKsYx7pQY9bQ="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/brands/oxt5m3fp.0vd.2bbadbj05x.jpg",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\imgs\\brands\\oxt5m3fp.0vd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsBAuWHgI5El4JFfmlnCeNQzBP+/r6o82XS1fNZVkQw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 16:56:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2bbadbj05x"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/brands/oxt5m3fp.0vd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vsBAuWHgI5El4JFfmlnCeNQzBP+/r6o82XS1fNZVkQw="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/brands/oxt5m3fp.0vd.jpg",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\Techann\\Techan\\Techan\\wwwroot\\imgs\\brands\\oxt5m3fp.0vd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsBAuWHgI5El4JFfmlnCeNQzBP+/r6o82XS1fNZVkQw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 16:56:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vsBAuWHgI5El4JFfmlnCeNQzBP+/r6o82XS1fNZVkQw="
         }
       ]
     },
