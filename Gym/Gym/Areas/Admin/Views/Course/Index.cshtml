@@ -1,0 +1,33 @@
+﻿@model  List<CourseGetVM>
+@{
+    int order = 1;
+}
+<table class="table">
+    <td>
+        <a class="btn btn-primary" asp-action="Create">Create</a>
+    </td>
+        <tr>
+            <th scope="col">No</th>
+            <th scope="col">Image</th>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Time</th>
+            <th scope="col">Actions</th>
+        </tr>
+    <tbody>
+        @foreach(var course in Model)
+        {
+        <tr>
+            <th scope="row">@(order++)</th>
+            <td><img width="50" height="50" src="~/images/course/@course.ImagePath"/></td>
+            <td>@course.Name</td>
+            <td>@course.Description</td>
+            <td>@course.Time</td>
+            <td>
+					<a class="btn btn-warning" asp-action="Update" asp-route-id="@course.Id">Update</a>
+					<a class="btn btn-danger" asp-action="Delete" asp-route-id="@course.Id">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

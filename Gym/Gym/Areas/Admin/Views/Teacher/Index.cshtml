@@ -1,0 +1,29 @@
+﻿@model List<TeacherGetVM>
+@{
+    int order = 1;
+}
+<table class="table">
+    <td>
+        <a class="btn btn-primary" asp-action="Create">Create</a>
+    </td>
+    <tr>
+        <th scope="col">#Id</th>
+        <th scope="col">Image</th>
+        <th scope="col">Name</th>     
+        <th scope="col">Actions</th>
+    </tr>
+    <tbody>
+        @foreach (var teacher in Model)
+        {
+            <tr>
+                <th scope="row">@(order++)</th>
+                <td><img width="50" height="50" src="~/images/teacher/@teacher.ImagePath" /></td>
+                <td>@teacher.Name</td>
+                <td>
+					<a class="btn btn-warning" asp-action="Update" asp-route-id="@teacher.Id">Update</a>
+					<a class="btn btn-danger" asp-action="Delete" asp-route-id="@teacher.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,50 @@
+﻿@model List<CourseGetVM>
+<!-- Courses Start -->
+<div class="container-fluid courses overflow-hidden py-5">
+	<div class="container py-5">
+		<div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+			<h4 class="text-primary"> Our Courses</h4>
+			<h1 class="display-4 text-white mb-4">Out Our Highlights Below</h1>
+			<p class="text-white mb-0">
+				Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt sint dolorem autem obcaecati, ipsam mollitia hic.
+			</p>
+		</div>
+		<div class="row gy-4 gx-0 justify-content-center">
+			@foreach (var item in Model)
+			{
+				<div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.2s">
+					<div class="courses-item">
+						<div class="courses-item-inner p-4">
+							<div class="d-flex justify-content-between mb-4">
+								<div class="courses-icon-img p-3">
+									<img src="~/@item.ImagePath" class="img-fluid" alt="">
+								</div>
+								<div class="data-info d-flex flex-column">
+									<div class="courses-trainer d-flex align-items-center mb-1">
+										<div class="me-2" style="width: 25px; height: 25px;">
+											<img src="~/assets/img/testimonial-3.jpg" class="img-fluid" alt="">
+										</div>
+										<p class="mb-0">Paul Flavius</p>
+									</div>
+									<div class="courses-date">
+										<p class="mb-1">Date: Saturday</p>
+										<p class="mb-0">Time: 06.00 - 07.00</p>
+									</div>
+								</div>
+							</div>
+							<a href="#" class="d-inline-block h4 mb-3"> Gym Fitness Class</a>
+							<p class="mb-4">
+								Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque tempora illo placeat.
+							</p>
+							<a href="#" class="btn btn-primary py-2 px-4"> <span>Read More</span></a>
+						</div>
+					</div>
+				</div>
+			}
+			<div class="col-12 text-center wow fadeInUp" data-wow-delay="0.2s">
+				<a href="#" class="btn btn-primary py-3 px-5"> <span>More Courses</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Courses End -->
